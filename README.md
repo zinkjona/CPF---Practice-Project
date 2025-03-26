@@ -1,2 +1,2 @@
 # CPF - Practice Project
- Asset Management Practive project
+ Asset Management Practice project
